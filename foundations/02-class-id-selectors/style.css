@@ -1,0 +1,19 @@
+.style1 {
+  background-color: pink;
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#style2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#style3 {
+  font-size: 24px;
+}
+
+#style4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}

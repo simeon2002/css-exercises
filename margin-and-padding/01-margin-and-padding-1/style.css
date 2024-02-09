@@ -1,0 +1,32 @@
+body {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.one {
+  background: pink;
+  border: 3px solid blue;
+  /* CHANGE ME */
+  padding: 30px 0px 30px 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.two {
+  background: lightblue;
+  border: 3px solid purple;
+  /* CHANGE ME */
+  margin-bottom: 40px;
+}
+
+.three {
+  background: peachpuff;
+  border: 3px solid brown;
+  width: 200px;
+  /* CHANGE ME */
+  padding: 30px 0px 30px 30px;
+  margin-left: auto;
+}
+/* size in standard box model: 200 + 6 + 30 = 236 --> margin-left = 600 - 236 = 364 */
